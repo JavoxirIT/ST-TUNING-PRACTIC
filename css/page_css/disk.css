@@ -1,1 +1,9 @@
-
+.logo {
+    height: 50px;
+    width: 427px;
+}
+.phone_number {
+    height: 72px;
+    width: 321px;
+    text-align: center;
+}
